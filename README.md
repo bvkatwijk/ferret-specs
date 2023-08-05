@@ -1,1 +1,1 @@
-# ferret-test
+# ferret-specs
