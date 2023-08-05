@@ -8,4 +8,5 @@ gradle-app.setting
 .project
 .classpath
 build/
+bin/
 .idea/
